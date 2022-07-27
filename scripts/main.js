@@ -228,7 +228,7 @@ for (let i = 0; i < 6; i++) {
   }
  
 
-for (let i=1, str = ''; i<=6; i++) {
+for (let i=1, str =''; i<=6; i++) {
     str += '#';
     console.log(str);
 }
